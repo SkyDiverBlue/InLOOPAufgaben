@@ -1,0 +1,2 @@
+public interface EnterpriseNodeIterator<T extends EnterpriseNode> extends java.util.Iterator<StaffMember> {
+}
